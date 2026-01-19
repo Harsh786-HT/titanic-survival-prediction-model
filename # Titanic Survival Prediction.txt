@@ -1,0 +1,83 @@
+# Titanic Survival Prediction – Machine Learning Model
+
+## 📌 Project Overview
+This project focuses on predicting the survival of passengers aboard the Titanic using machine learning techniques. The model is trained on the well-known Titanic dataset and analyzes various passenger features to estimate survival probability.
+
+
+
+## 🎯 Problem Statement
+Given passenger details such as age, gender, class, and fare, the goal is to predict whether a passenger survived the Titanic disaster.
+
+
+
+## 📊 Dataset
+1. **Source:** Titanic Dataset
+2.**Features include:**
+3. Passenger Class (Pclass)
+4. Sex
+5. Age
+6. Fare
+7. Number of siblings/spouses aboard
+8. Number of parents/children aboard
+9. **Target Variable:** Survival (0 = No, 1 = Yes)
+
+
+
+## 🛠️ Tools & Technologies
+1. Python
+2. Jupyter Notebook
+3. Pandas
+4.  NumPy
+5.  Matplotlib / Seaborn
+6. Scikit-learn
+
+
+
+## ⚙️ Methodology
+1. Data loading and exploration  
+2. Data cleaning and preprocessing  
+3. Feature selection and transformation  
+4. Model training  
+5. Model evaluation  
+
+
+
+## 📈 Model Used
+- Linear Regression *(Simplest way)* 
+*(It Can be further extended to Logistic Regression / Random Forest for better classification performance)*
+
+---
+
+## ✅ Results
+1. The model successfully learns patterns from passenger data.
+2. Survival predictions are generated based on input features.
+3. Performance metrics help evaluate model effectiveness.
+
+
+
+## 📂 Project Structure
+├── titanic.csv
+├── Linear Regression.ipynb
+├── README.md
+
+
+
+
+## 🚀 Future Improvements
+1. Use classification models like Logistic Regression or Random Forest
+2. Hyperparameter tuning
+3. Feature engineering
+4. Deployment as a web application
+
+
+
+## 👤 Author
+
+**Harsh Thakre**
+
+**GitHub: https://github.com/Harsh786-HT**
+**LinkedIn: www.linkedin.com/in/harsh-thakre-a17218329**
+
+
+## 📜 License
+This project is for educational and learning purposes.
